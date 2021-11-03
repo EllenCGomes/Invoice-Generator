@@ -1,3 +1,9 @@
+Built with: Python
+
+Project Status: Concluded :heavy_check_mark:
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 &nbsp; 🇺🇸 &nbsp; This assignment is part of Coursera's course "[Introduction to Computer Science with Python Part 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) by University of São Paulo" programming assignments
 
 EXERCISE DESCRIPTION: A credit card company emails your invoices with the following message: "Hello, Your invoice due on January 9 in the amount of R$ 350.00 is closed." Write a program that receives the customer's name, the due day, the due month and the invoice amount and prints the message with the data received, in the same format as the message above.
